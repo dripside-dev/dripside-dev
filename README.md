@@ -2,9 +2,9 @@
 
 # 🌊 dripside
 
-### Versatile Developer | Low-Level to High-Level
+### Универсальный разработчик | От низкого уровня до высокого
 
-*Bridging the gap between hardware and application logic*
+*Соединяю железо и приложения*
 
 [![GitHub followers](https://img.shields.io/github/followers/dripside-dev?style=for-the-badge&color=8B5CF6)](https://github.com/dripside-dev)
 [![GitHub stars](https://img.shields.io/github/stars/dripside-dev?style=for-the-badge&color=A78BFA)](https://github.com/dripside-dev)
@@ -13,24 +13,24 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Обо мне
 
-Passionate about creating seamless experiences across the entire technology stack. From embedded firmware to game engines, I love exploring different domains and building innovative solutions.
+Увлечен созданием бесшовных решений на всех уровнях технологического стека. От встроенной прошивки до игровых движков — люблю исследовать разные области и создавать инновационные решения.
 
-**Focus Areas:**
-- 🤖 Automation & Bots
-- 🎮 Game Development
-- 🦾 Robotics & AI
-- 🌐 Web Development
-- 🔧 Embedded Systems
+**Области интересов:**
+- 🤖 Автоматизация и боты
+- 🎮 Разработка игр
+- 🦾 Робототехника и ИИ
+- 🌐 Веб-разработка
+- 🔧 Встроенные системы
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Технологии
 
 <div align="center">
 
-### Languages
+### Языки программирования
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -38,7 +38,7 @@ Passionate about creating seamless experiences across the entire technology stac
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Tools & Frameworks
+### Инструменты и фреймворки
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
@@ -48,72 +48,72 @@ Passionate about creating seamless experiences across the entire technology stac
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Избранные проекты
 
 ### 🎮 [mvek](https://github.com/dripside-dev/mvek)
-Python-based game engine and experimental sandbox for creative game development.
+Игровой движок на Python и экспериментальная песочница для творческой разработки игр.
 
-**Tech:** `Python` `Game Development`
+**Технологии:** `Python` `Разработка игр`
 
 ---
 
 ### 🤖 [supercheap_automation](https://github.com/dripside-dev/supercheap_automation)
-Telegram bot for automated market tracking and real-time alerts.
+Telegram-бот для автоматического отслеживания рынка и оповещений в реальном времени.
 
-**Tech:** `Python` `Telegram API` `Automation`
+**Технологии:** `Python` `Telegram API` `Автоматизация`
 
 ---
 
 ### 🎯 [GDultimate](https://github.com/dripside-dev/GDultimate)
-gdULT project implementation with core utilities and tools.
+Реализация проекта gdULT с основными утилитами и инструментами.
 
-**Tech:** `HTML` `JavaScript` `Tools`
+**Технологии:** `HTML` `JavaScript` `Инструменты`
 
 ---
 
 ### 🦾 [LocusAI](https://github.com/dripside-dev/LocusAI)
-Intelligent assistant robot control software with advanced AI capabilities.
+Программное обеспечение для управления интеллектуальным роботом-ассистентом с продвинутыми возможностями ИИ.
 
-**Tech:** `C++` `Robotics` `AI`
+**Технологии:** `C++` `Робототехника` `ИИ`
 
 ---
 
 ### 👻 [lidar-ikea-game](https://github.com/dripside-dev/lidar-ikea-game)
-Atmospheric LiDAR Horror Game set in a furniture store using raycasting technology.
+Атмосферная хоррор-игра с LiDAR в мебельном магазине с использованием технологии raycasting.
 
-**Tech:** `JavaScript` `Raycasting` `Game Development`
+**Технологии:** `JavaScript` `Raycasting` `Разработка игр`
 
 ---
 
 ### 📱 [social_bot](https://github.com/dripside-dev/social_bot)
-Social media automation and content scheduling tool for multiple platforms.
+Инструмент для автоматизации социальных сетей и планирования контента для нескольких платформ.
 
-**Tech:** `Python` `API Integration` `Automation`
+**Технологии:** `Python` `Интеграция API` `Автоматизация`
 
 ---
 
 ### 🔒 [elix_vpn](https://github.com/dripside-dev/elix_vpn)
-Custom VPN service with secure backend and intuitive client interface.
+Пользовательский VPN-сервис с безопасным бэкендом и интуитивным клиентским интерфейсом.
 
-**Tech:** `CSS` `Networking` `Security`
+**Технологии:** `CSS` `Сети` `Безопасность`
 
 ---
 
 ### 🔧 [firmware](https://github.com/dripside-dev/firmware)
-Embedded firmware for custom IoT devices and microcontroller projects.
+Встроенная прошивка для пользовательских IoT-устройств и проектов на микроконтроллерах.
 
-**Tech:** `C++` `Embedded Systems` `IoT`
+**Технологии:** `C++` `Встроенные системы` `IoT`
 
 ---
 
 ### ⚙️ [extremebruce](https://github.com/dripside-dev/extremebruce)
-Low-level system utilities and kernel modules for advanced system operations.
+Низкоуровневые системные утилиты и модули ядра для продвинутых системных операций.
 
-**Tech:** `C` `System Programming` `Kernel`
+**Технологии:** `C` `Системное программирование` `Ядро`
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Статистика GitHub
 
 <div align="center">
 
@@ -127,12 +127,12 @@ Low-level system utilities and kernel modules for advanced system operations.
 
 ---
 
-## 📫 Connect With Me
+## 📫 Связаться со мной
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-dripside--dev-8B5CF6?style=for-the-badge&logo=github)](https://github.com/dripside-dev)
-[![Email](https://img.shields.io/badge/Email-Contact-A78BFA?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Контакт-A78BFA?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
 
 </div>
 
@@ -140,9 +140,9 @@ Low-level system utilities and kernel modules for advanced system operations.
 
 <div align="center">
 
-### 💜 Built with passion and purple aesthetics
+### 💜 Создано с любовью и фиолетовой эстетикой
 
-*"From bits to bytes, from hardware to cloud"*
+*"От битов до байтов, от железа до облака"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dripside-dev&color=8B5CF6&style=for-the-badge)
 
